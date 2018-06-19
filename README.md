@@ -1,4 +1,4 @@
-# MPOS-POOL-BASH-SCRIPT
+# MPOS-POOL-AUTO-BASH-SCRIPT
 
   ![image]( https://github.com/luxianyou/MPOS-POOL-BASH-SCRIPT/blob/master/use.jpg)
   
